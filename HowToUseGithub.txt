@@ -1,0 +1,15 @@
+1. How to clone your private github project using git bash:
+	- git clone https://yujzhangum@github.com/yujzhangum/jian-shu.git
+	- sign in with browser
+
+2. How to link git bash with your github account:
+	- Open git bash
+	- git config --global user.name <username> (yujzhangum) 
+	- git config --global user.email <email> (yujzhang@umich.edu)
+
+3. Sync your repo with updates:
+	- git status (check for what's new)
+	- git add . or git add sth. 
+	- git commit -m "your message"
+	- git pull
+	- git push
